@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Backend Requirement
+
+NodeJs Installed, Express Installed, Nodemon Server Installed.
+
+### Server Run Command
+
+nodemon <server-filename>
