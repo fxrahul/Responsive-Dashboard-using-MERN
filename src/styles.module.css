@@ -1,0 +1,38 @@
+.formDiv{
+  text-align: center;
+  overflow: auto;
+  padding-bottom: 50px;
+  
+}
+
+.formInside{
+
+  display: inline-block;
+  
+}
+
+#container{
+  min-height: 100%;
+}
+
+#bodyMain{
+  overflow: auto;
+  padding-bottom: 50px;
+
+}
+#foot{
+  background-color: #F8F9FA !important;
+  position: fixed;
+  height: 50px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+
+.profilePic{
+  width: 200px;
+  height: 200px;
+}
+
+
