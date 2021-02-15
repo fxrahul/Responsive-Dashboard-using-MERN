@@ -2,7 +2,7 @@
 Responsive Dashboard is the project based on Create, Read, Update and Delete (CRUD) operations using MongoDB, ExpressJS, ReactJS and NodeJS (MERN).
 
 ### Motivation
-I came across MERN Stack Developmet after having hands on experience on PHP - Laravel. I always love learning new and interesting technologies, I was really amazed after knowing that only JavaScript can be used for Full Stack Development. So, here I am developing a responsive dashboard using MERN.
+I came across MERN Stack Development after having hands on experience on PHP - Laravel. I always love learning new and interesting technologies, I was really amazed after knowing that only JavaScript can be used for Full Stack Development. So, here I am developing a responsive dashboard using MERN.
 
 ### Screenshots
 
